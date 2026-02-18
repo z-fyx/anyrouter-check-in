@@ -28,7 +28,7 @@
 1. **Cookies**: 用于身份验证
 2. **API User**: 用于请求头的 new-api-user 参数（自己配置其它平台时该值需要注意匹配）
 
-#### 获取 Cookies：
+#### 获取 Cookies1234：
 
 1. 打开浏览器，访问 https://anyrouter.top/
 2. 登录你的账户
